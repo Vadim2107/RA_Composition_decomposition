@@ -2,6 +2,10 @@ form {
     display: flex;
 }
 
+.news-icon {
+    width: 40px;
+}
+
 .news-item {
     list-style-type: none;
 }

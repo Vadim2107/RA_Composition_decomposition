@@ -27,7 +27,7 @@ class App extends React.Component {
     },
     {
       link: 'Новость-3',
-      icon: 'https://cdn.icon-icons.com/icons2/966/PNG/128/News_icon-icons.com_74697.png',
+      icon: 'https://img.icons8.com/doodle/2x/news.png',
       text: 'HTML HTML HTML',
     }
   ]
