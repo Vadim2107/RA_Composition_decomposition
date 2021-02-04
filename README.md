@@ -1,3 +1,11 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/9ocacrgd2px2ogq0?svg=true)](https://ci.appveyor.com/project/Vadim2107/ra-composition-decomposition)
+
+### [GitHub Pages](https://vadim2107.github.io/RA_Composition_decomposition/)
+
+# Домашнее задание к курсу «React: библиотека № 1 в современной фронтенд-разработке»
+
+## RA_Composition_decomposition
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
