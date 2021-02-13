@@ -5,6 +5,6 @@ import React from 'react';
 */
 
 const NewsLink = props =>
-<a href="#0" className="news-link">{props.children}</a>
+<a href={props.link} className="news-link">{props.children}</a>
 
 export default NewsLink;

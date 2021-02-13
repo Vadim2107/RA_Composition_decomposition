@@ -1,9 +1,31 @@
 form {
     display: flex;
+    align-items: center;
+    padding-right: 20px;
+}
+
+input {
+    border: 2px solid rgb(226, 178, 20);
+    border-radius: 5px;
+    height: 40px;
+    width: 100%;
+}
+
+button {
+    background-color: rgb(226, 178, 20);
+    height: 45px;
+    border-color: rgb(226, 178, 20);
+}
+
+.news-item-container {
+    display: flex;
+    align-items: center;
 }
 
 .news-icon {
-    width: 40px;
+    width: 14px;
+    height: 14px;
+    margin-right: 10px;
 }
 
 .news-item {
@@ -13,4 +35,25 @@ form {
 .news-link {
     text-decoration-line: none;
     color: black;
+    font: 81.25% Arial,Helvetica,'Helvetica Neue',sans-serif;
+}
+
+.services-list {
+    display: flex;
+    max-width: 70%;
+}
+
+.services-item {
+    text-decoration-line: none;
+    color: black;
+    text-align: center;
+    transition: color .15s ease-out;
+}
+
+.news-link:hover, .services-item:hover {
+    color: rgb(202, 10, 10);
+}
+
+.services-icon:hover {
+    transform: translateY(-10px);
 }
